@@ -5,4 +5,4 @@ I made <b>three task</b> in three different preview <b>task-1, task-2 & Payment 
  
 <br></br><br>In <b> Payment Card: </b> i set logo in left corner <b>Payment card</b> with <b>face id</b> detector then below there is two big financial services corporation, i.e- <b> Visa & Paypal </b> then below there in in box name payment details with four sub-box sample written <b>Holder name, Account No, Card No & CVV </b> end with fill box written <b> Pay Now </b>. Watch deign- ![image](https://user-images.githubusercontent.com/91480902/158618290-5ee95e27-3a7a-4cd4-865c-0c9511299012.png)
 
-<br></br><b><br>Thank you for giving me this opportunity. </b>
+<br></br><b><br>Thank you</b>
